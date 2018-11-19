@@ -7,3 +7,6 @@
 [submodule "cosc4315-hw3"]
 	path = cosc4315-hw3
 	url = git@github.com:TetroVolt/cosc4315-hw1.git
+[submodule "cosc4315-hw4"]
+	path = cosc4315-hw4
+	url = git@github.com:xylafur/cosc4315-hw2.git
