@@ -10,3 +10,6 @@
 [submodule "cosc4315-hw4"]
 	path = cosc4315-hw4
 	url = git@github.com:xylafur/cosc4315-hw2.git
+[submodule "cosc4315-extra-credit"]
+	path = cosc4315-extra-credit
+	url = https://github.com/xylafur/cosc4315-extra-credit.git
